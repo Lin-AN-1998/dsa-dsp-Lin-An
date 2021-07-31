@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/AN%20LIN/Desktop/PatientPrediction/mlruns/0/eb6131223b324096b8e552d8bf16e72d/artifacts
+end_time: 1627737959898
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: eb6131223b324096b8e552d8bf16e72d
+run_uuid: eb6131223b324096b8e552d8bf16e72d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1627737959784
+status: 3
+tags: []
+user_id: AN LIN
